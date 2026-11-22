@@ -1,0 +1,2 @@
+# yamareco_clip_flower_photo
+OpenAIのCLIPを使って花の写真を選択して、csvを出すプログラム
